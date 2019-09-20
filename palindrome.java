@@ -3,13 +3,11 @@ package FeetNumber;
 import java.util.Scanner;
 
 /*
-Mila Arkhiptcova
+Mila 
 This program that prompts the user to enter a three-digit integer 
 and determines whether it is a palindrome integer.  An integer is 
 palindrome if it reads the same from right to left and from left 
 to right.  A negative integer is treated the same as a positive integer. 
-09/2/2019
-Bellevue University
 palindrome.java
 */
 
